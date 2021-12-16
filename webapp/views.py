@@ -7,4 +7,6 @@ def index_view(request):
 
 
 def test_view():
-    pass
+    print("hi")
+
+
