@@ -9,4 +9,3 @@ def index_view(request):
 def test_view():
     print("hi")
 
-
